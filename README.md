@@ -27,7 +27,8 @@ https://github.com/dusty-nv/jetson-inference/blob/master/docs/pytorch-ssd.md
 .
 
 ## Demo
-
+1. picture
+2. video
 .
 
 ### How to run
