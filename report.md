@@ -27,3 +27,12 @@ https://github.com/dusty-nv/jetson-inference/blob/master/docs/pytorch-ssd.md
 ## Demo
 
 .
+
+### How to run
+
+```shell
+cd home/coro/project
+sh TestObject.sh # To run Object Detection
+sh TestFruit.sh # To run Fruit Detection
+```
+
