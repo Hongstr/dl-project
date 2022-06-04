@@ -1,6 +1,7 @@
 ##  Environment
 
 https://github.com/dusty-nv/jetson-inference
+
 https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
 
 ## Models
@@ -10,7 +11,7 @@ https://github.com/dusty-nv/jetson-inference/blob/master/docs/detectnet-console-
 SSD-Mobilenet-v2
 
 ### Object detection
-
+https://github.com/dusty-nv/jetson-inference/blob/master/docs/detectnet-console-2.md#pre-trained-detection-models-available
 91 classes (COCO classes)
 
 ### Fruit detection
